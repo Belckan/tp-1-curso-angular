@@ -1,3 +1,10 @@
+Simple CRUD de listado de tareas
+-------------------------------------------------------------------------------------------------------------------
+Contiene funciones para editar los valores de las entradas/tareas, eliminarlas, marcarlas como completas, y exportarlas a un archivo json.
+A futuro se le podra agregar importacion de tal json para persistencia.
+
+
+-------------------------------------------------------------------------------------------------------------------
 # Tp1CursoAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
