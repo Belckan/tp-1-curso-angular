@@ -1,0 +1,11 @@
+.ocultarCampos{
+    display: none;
+}
+
+.incompleta{
+    background-color: rgba(255, 166, 0, 0.61);
+}
+
+.completada{
+    background-color: rgba(38, 199, 38, 0.39) !important;
+}
